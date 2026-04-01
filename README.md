@@ -1032,6 +1032,7 @@ MCP servers for learning management systems (LMS) and educational tools.
 MCP servers for e-commerce platforms and online store management.
 
 - [lofder/dsers-mcp-product](https://github.com/lofder/dsers-mcp-product) [![dsers-mcp-product MCP server](https://glama.ai/mcp/servers/lofder/dsers-mcp-product/badges/score.svg)](https://glama.ai/mcp/servers/lofder/dsers-mcp-product) 📇 ☁️ - Automate AliExpress/Alibaba dropshipping product import to Shopify or Wix via DSers. Bulk import, variant editing, pricing rules, and multi-store push with a single command.
+- [ShopGraph](https://github.com/laundromatic/shopgraph) - Product data structuring layer for AI agents. REST API + MCP server. Send a URL or raw HTML, get clean structured product data with confidence scores. Schema.org + Gemini LLM fallback. 200 free calls/month.
 - [the402ai/mcp-server](https://github.com/the402ai/mcp-server) [![the402ai/mcp-server MCP server](https://glama.ai/mcp/servers/the402ai/mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/the402ai/mcp-server) 📇 ☁️ 🍎 🪟 🐧 - AI agent service marketplace with x402 micropayments (USDC on Base). 30 tools for browsing services, purchasing, managing conversation threads, listing services as a provider, handling subscriptions, and tracking earnings. Install via `npx -y @the402/mcp-server`.
 
 ### 🌳 <a name="environment-and-nature"></a>Environment & Nature
